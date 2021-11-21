@@ -1,0 +1,16 @@
+[data-tftl-image-mask] {
+	display: block;
+	overflow: hidden;
+	position: relative;
+}
+[data-tftl-image-mask] > .mask {
+	width: 100%;
+	height: 100%;
+}
+[data-tftl-image-mask] > img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-position: center;
+	object-fit: cover;
+}
