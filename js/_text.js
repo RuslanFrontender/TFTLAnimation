@@ -2,7 +2,7 @@ import {gsap} from 'gsap'
 import SplitText from 'gsap/SplitText'
 import ScrollTrigger from 'gsap/ScrollTrigger'
 
-import {readyFonts} from '../utils/index'
+import {readyFonts} from './utils/index'
 
 gsap.registerPlugin([SplitText, ScrollTrigger])
 export default async () => {

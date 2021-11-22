@@ -1,6 +1,6 @@
 import { gsap } from 'gsap'
 import SplitText from 'gsap/SplitText'
-import { readyFonts } from '../utils/index'
+import { readyFonts } from './utils/index'
 
 gsap.registerPlugin(SplitText)
 

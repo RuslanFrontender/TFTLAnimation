@@ -1,6 +1,6 @@
 import {gsap} from 'gsap'
 import ScrollTrigger from 'gsap/ScrollTrigger'
-import {animationDelay} from '../utils/index'
+import {animationDelay} from './utils/index'
 
 gsap.registerPlugin(ScrollTrigger)
 
