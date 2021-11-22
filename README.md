@@ -1,4 +1,4 @@
-# TFTLAnimation (v0.1.0)
+# TFTLAnimation (v0.2.0)
 Basic animation of texts and images on scroll
 
 **Attention:** Animation use **ScrollTrigger** and **SplitText** plugins of **GSAP** library
